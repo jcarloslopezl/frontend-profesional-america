@@ -1,3 +1,5 @@
+Autor: Juan Carlos López (@jcarloslopezl)
+
 frontend-profesional-america
 ============================
 
